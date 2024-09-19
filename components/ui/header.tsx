@@ -3,7 +3,7 @@ import React from "react";
 
 export function Header() {
   return (
-    <div className="flex h-14 bg-[#636363] justify-between rounded-full items-center px-4">
+    <div className="flex h-14 bg-[#636363] justify-between rounded-full items-center px-4 relative z-10">
       <div className="flex space-x-2 items-center">
         <Avatar>
           <AvatarImage
