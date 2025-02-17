@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on an ecommerce with Vendure.io, React and Nextjs. Using Codegen for the graphql schema types.
+- 🔭 I’m currently working on an ecommerce with Vendure.io, React and Nextjs. Using Codegen for the graphql schema types generation.
 - 🌱 I'm currently studying Nest, building an app for credit card subscriptions tracking!
 - 👯 I’m looking to collaborate on any project that gives me a challenge
 - 💬 Ask me about chess
